@@ -23,8 +23,8 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Data Think! is a data cooperative for digital trust and data literacy.
   Our aim is to see more people live a happy life
-  by making the world a more just and democratic place.
-  We empower individuals and communities with digital tools and skill.
+  by making the world a just and democratic place.
+  We empower individuals and communities with digital knowledge and know-how.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://datathink.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
